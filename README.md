@@ -30,3 +30,7 @@ pip install PyQt5
 ## Play screen
 ![cako figure](cako_chan.png)
   
+# Kids Education script suits
+- I developed in the manyard
+  https://github.com/mi-kaneyon/man-yard
+  
