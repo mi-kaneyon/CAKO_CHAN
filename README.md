@@ -34,3 +34,5 @@ pip install PyQt5
 - I developed in the manyard
   https://github.com/mi-kaneyon/man-yard
   
+# Android version coming soon
+- Release by Manyan3 (without Qt module)
