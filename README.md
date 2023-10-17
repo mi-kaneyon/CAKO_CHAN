@@ -35,5 +35,7 @@ pip install PyQt5
   https://github.com/mi-kaneyon/man-yard
   
 # Android version coming (Google Play)
+https://play.google.com/store/apps/details?id=play.cako_chan
+
 - Release by Manyan3 (without Qt module)
 - Added HARD mode: it is number button appeared radomly.
